@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "minimal-blog",
+  "name": "torycons",
   "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
-  "version": "1.3.11",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "version": "0.0.1",
+  "author": "torycons",
   "license": "0BSD",
   "starter-name": "gatsby-starter-minimal-blog",
   "scripts": {
@@ -26,9 +26,11 @@
     "gatsby-plugin-netlify": "^3.6.1",
     "gatsby-plugin-offline": "^4.6.0",
     "gatsby-plugin-sitemap": "^4.2.0",
+    "gatsby-plugin-theme-ui": "^0.10.1",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.22",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "theme-ui": "^0.10.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
