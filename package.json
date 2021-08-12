@@ -1,10 +1,8 @@
 {
-  "private": true,
   "name": "torycons",
-  "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
-  "version": "0.0.1",
+  "description": "torycons.dev",
+  "version": "0.1",
   "author": "torycons",
-  "license": "0BSD",
   "starter-name": "gatsby-starter-minimal-blog",
   "scripts": {
     "build": "gatsby build",
